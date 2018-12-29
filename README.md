@@ -1,6 +1,15 @@
 # belogrud_microservices
 belogrud microservices repository
 
+20181229
+Lesson 17
+Домашнее задание к уроку 17: "Docker образы. Микросервисы".
+Работа выполнялась по методичке "Docker03_Homework-20271-c7236b.pdf".
+
+Что сделано.
+
+
+
 20181228
 Lesson 16
 
