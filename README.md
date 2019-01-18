@@ -1,6 +1,16 @@
 # belogrud_microservices
 belogrud microservices repository
 
+20190118
+Lesson 18
+Домашнее задание к уроку 18: "Сетевое взаимодействие Docker контейнеров. Docker Compose. Тестирование образов".
+Работа выполнялась по методичке "Практика._Docker._сети__docker_compose-8278-8e87f4.pdf".
+
+Что сделано.
+
+*. Основное ДЗ.
+
+
 20181229
 Lesson 17
 Домашнее задание к уроку 17: "Docker образы. Микросервисы".
